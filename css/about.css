@@ -1,0 +1,77 @@
+ .my-col{
+        border-left: 1px solid black;
+        height: 600px;
+    }
+    .col5{
+        border-left: 2px solid black;
+        
+    }
+     .col4{        
+        height: 60px;
+        width: 45px;
+    }
+    .col6{
+        background-color: blue;
+    }
+   
+     .col7{
+        background-color: blue;
+        height: 100%;
+        width: 100%;
+    }
+    .col1{
+        background-image: url("basketball doc/img/ch2.jpg");
+    }
+    
+    .col2{
+        background-image: url("basketball doc/img/ch2.jpg");
+        margin-left: 10px;
+    }
+    div.bg{
+        background-color: aliceblue;                
+        margin-top: 20px;
+        margin-left: 50px;
+        margin-bottom: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .myrow{
+        background-color: aliceblue;
+        margin-left: 50px;
+        margin-right: 40px;
+        height: 350px;
+    }
+    div.container-fluid{
+        height: 350px;
+    }
+    div.container_A {
+        background-image: url("basketball doc/img/ch4.jpg");
+        margin: 80px;        
+        height: 700px;
+        
+    }
+    div.container_F{
+        margin: 20px;
+        background-color: blue;
+        height: 350px;
+    }
+    div.container_f1{
+        background-color: blue;
+    }
+    div.small_container{
+        background-color: white;
+        width: 500px;
+        height: 400px;
+        margin-left: 400px;
+        opacity: 0.5;
+    }
+    div.row_1{
+        height: 65px;
+        width: 100px;
+    }
+    #footer{
+        width: 50%;
+        margin-left: 65px;
+        margin-top: 50px;
+    }
+   
